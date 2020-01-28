@@ -18,7 +18,7 @@ Before running the project, please follow those steps in order for the app to ru
 
 ### Configure environment file
 
-Open `example.env` and fill it with your Potion Social Credentials, if you do not own credentials, create a free account on [Potion Social API Builder](https://api.potion.social/ "Potion Social API Builder").
+Open `.env.example` and fill it with your Potion Social Credentials, if you do not own credentials, create a free account on [Potion Social API Builder](https://api.potion.social/ "Potion Social API Builder").
 
 Final Potion Social API config in `.env` file should look a bit like this :
 
